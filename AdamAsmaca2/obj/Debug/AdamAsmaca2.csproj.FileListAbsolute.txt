@@ -1,0 +1,10 @@
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\bin\Debug\AdamAsmaca2.exe.config
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\bin\Debug\AdamAsmaca2.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\bin\Debug\AdamAsmaca2.pdb
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.csprojAssemblyReference.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.Form1.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.Properties.Resources.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.csproj.GenerateResource.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.csproj.CoreCompileInputs.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\AdamAsmaca2\AdamAsmaca2\obj\Debug\AdamAsmaca2.pdb
